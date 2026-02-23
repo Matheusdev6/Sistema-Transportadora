@@ -1,4 +1,4 @@
-# Sistema de Gerenciamento de Veículos 🚗
+# Sistema de Gerenciamento de Veículos
 
 Projeto desenvolvido em Java para praticar conceitos de Orientação a Objetos (POO).
 
